@@ -118,7 +118,7 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analysts in the India](2_Project/Images/trending_top_skills.png)  
-*Bar graph visualizing the trending top skills for data analysts in the India in 2023.*
+*Line graph visualizing the trending top skills for data analysts in the India in 2023.*
 
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
