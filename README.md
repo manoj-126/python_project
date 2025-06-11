@@ -243,7 +243,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the India with Coloring by Technology](2_Project\Images\most_optimal_skills.png)  
+![Most Optimal Skills for Data Analysts in the India with Coloring by Technology](2_Project/Images/most_optimal_skills.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the India with color labels for technology.*
 
 #### Insights:
