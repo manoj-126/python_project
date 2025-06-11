@@ -84,7 +84,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the India Job Postings](2_Project\Images\Likelyhood of skills.png)
+![Likelihood of Skills Requested in the Job Postings](2_Project\Images\Likelyhood_of_skills.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -117,7 +117,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the India](2_Project\Images\trending top skills.png)  
+![Trending Top Skills for Data Analysts in the India](2_Project\Images\trending_top_skills.png)  
 *Bar graph visualizing the trending top skills for data analysts in the India in 2023.*
 
 ### Insights:
@@ -144,7 +144,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the India](2_Project\Images\salary distributions.png)  
+![Salary Distributions of Data Jobs in the India](2_Project\Images\salary_distributions.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -178,7 +178,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the India:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the India](2_Project\Images\highest paid skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the India](2_Project\Images\highest_paid_skills.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the India.*
 
 #### Insights:
@@ -208,7 +208,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the India](2_Project\Images\most optimal skill 2.png)    
+![Most Optimal Skills for Data Analysts in the India](2_Project\Images\most_optimal_skill_2.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the India.*
 
 #### Insights:
@@ -243,7 +243,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the India with Coloring by Technology](2_Project\Images\most optimal skills.png)  
+![Most Optimal Skills for Data Analysts in the India with Coloring by Technology](2_Project\Images\most_optimal_skills.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the India with color labels for technology.*
 
 #### Insights:
